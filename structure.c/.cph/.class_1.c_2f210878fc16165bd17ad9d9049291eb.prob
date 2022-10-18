@@ -1,0 +1,1 @@
+{"name":"Local: class_1","url":"c:\\Users\\MD ANISUL ISLAM\\Desktop\\Cpractice\\structure.c\\class_1.c","tests":[{"id":1656098886093,"input":"5\n1 2 3 4 5","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\MD ANISUL ISLAM\\Desktop\\Cpractice\\structure.c\\class_1.c","group":"local","local":true}
